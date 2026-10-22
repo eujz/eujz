@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="710" height="402" viewBox="0 0 710 402" role="img" aria-label="eujz terminal profile card">
+<style>text{font-family:'DejaVu Sans Mono','Fira Code',Consolas,Menlo,monospace;font-size:13px;white-space:pre}.art{fill:#5dc9f2}.hd{fill:#e8384f;font-weight:700}.lb{fill:#ffffff;font-weight:700}.vl{fill:#5dc9f2}.dim{fill:#6b7a99}.cur{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}@keyframes w0{0.0%{width:0.0px}4.966%{width:70.4px}12.552%{width:70.4px}15.345%{width:0.0px}100.0%{width:0.0px}}@keyframes c0{0.0%{transform:translateX(0.0px)}4.966%{transform:translateX(70.4px)}12.552%{transform:translateX(70.4px)}15.345%{transform:translateX(0.0px)}100.0%{transform:translateX(0.0px)}}.w0{animation:w0 14.50s steps(9,end) infinite}.c0{animation:c0 14.50s linear infinite}@keyframes w1{18.103%{width:0.0px}38.517%{width:289.6px}46.103%{width:289.6px}57.586%{width:0.0px}100.0%{width:0.0px}}@keyframes c1{18.103%{transform:translateX(0.0px)}38.517%{transform:translateX(289.6px)}46.103%{transform:translateX(289.6px)}57.586%{transform:translateX(0.0px)}100.0%{transform:translateX(0.0px)}}.w1{animation:w1 14.50s steps(37,end) infinite}.c1{animation:c1 14.50s linear infinite}@keyframes w2{60.345%{width:0.0px}79.103%{width:266.1px}86.69%{width:266.1px}97.241%{width:0.0px}100.0%{width:0.0px}}@keyframes c2{60.345%{transform:translateX(0.0px)}79.103%{transform:translateX(266.1px)}86.69%{transform:translateX(266.1px)}97.241%{transform:translateX(0.0px)}100.0%{transform:translateX(0.0px)}}.w2{animation:w2 14.50s steps(34,end) infinite}.c2{animation:c2 14.50s linear infinite}</style>
+<rect width="710" height="402" rx="10" fill="#0b1120"/>
+<path d="M0 10a10 10 0 0 1 10-10h690a10 10 0 0 1 10 10V36H0z" fill="#141c30"/>
+<circle cx="20" cy="18.0" r="6" fill="#ff5f56"/>
+<circle cx="40" cy="18.0" r="6" fill="#ffbd2e"/>
+<circle cx="60" cy="18.0" r="6" fill="#27c93f"/>
+<text x="355.0" y="22.0" text-anchor="middle" class="dim">eujz@github: ~</text>
+<text class="art" x="24" y="66" xml:space="preserve"></text>
+<text class="art" x="24" y="82" xml:space="preserve">          +++++++++++++++</text>
+<text class="art" x="24" y="98" xml:space="preserve">       +++++===========+++++</text>
+<text class="art" x="24" y="114" xml:space="preserve">     ++++===-----------===++++</text>
+<text class="art" x="24" y="130" xml:space="preserve">   ++++==--------=--------==++++</text>
+<text class="art" x="24" y="146" xml:space="preserve">  +++==-----=++*****++=-----==+++</text>
+<text class="art" x="24" y="162" xml:space="preserve"> +++==----=+*#%%%%%%%#*+=----==+++</text>
+<text class="art" x="24" y="178" xml:space="preserve"> +++=----=+#%%%#***#%%%#+=----=+++</text>
+<text class="art" x="24" y="194" xml:space="preserve"> ++==----+*#%%*=-:-=*%%#*+----==++</text>
+<text class="art" x="24" y="210" xml:space="preserve"> ++==----+*#%%*=-:-=*%%#*+----==++</text>
+<text class="art" x="24" y="226" xml:space="preserve"> +++=----=+#%%%#***#%%%#+=----=+++</text>
+<text class="art" x="24" y="242" xml:space="preserve"> +++==----=+*#%%%%%%%#*+=----==+++</text>
+<text class="art" x="24" y="258" xml:space="preserve">  +++==-----=++*****++=-----==+++</text>
+<text class="art" x="24" y="274" xml:space="preserve">   ++++==--------=--------==++++</text>
+<text class="art" x="24" y="290" xml:space="preserve">     ++++===-----------===++++</text>
+<text class="art" x="24" y="306" xml:space="preserve">       +++++===========+++++</text>
+<text class="art" x="24" y="322" xml:space="preserve">          +++++++++++++++</text>
+<text class="hd" x="326.084" y="66">eujz@github</text>
+<text class="dim" x="326.084" y="82">───────────</text>
+<text x="326.084" y="114" xml:space="preserve"><tspan class="lb">Role:           </tspan><tspan class="vl">developer</tspan></text>
+<text x="326.084" y="130" xml:space="preserve"><tspan class="lb">Focus:          </tspan><tspan class="vl">software, tooling &amp; experiments</tspan></text>
+<text x="326.084" y="146" xml:space="preserve"><tspan class="lb">Stack.Langs:    </tspan><tspan class="vl">c, c++, rust, lua, python, js, ts</tspan></text>
+<text x="326.084" y="162" xml:space="preserve"><tspan class="lb">Stack.Web:      </tspan><tspan class="vl">react, html, css</tspan></text>
+<text x="326.084" y="178" xml:space="preserve"><tspan class="lb">Stack.DB:       </tspan><tspan class="vl">mysql, mongodb</tspan></text>
+<text x="326.084" y="194" xml:space="preserve"><tspan class="lb">Tools:          </tspan><tspan class="vl">git</tspan></text>
+<text x="326.084" y="210" xml:space="preserve"><tspan class="lb">Contact.GitHub: </tspan><tspan class="vl">github.com/eujz</tspan></text>
+<text x="326.084" y="226" xml:space="preserve"><tspan class="lb">Repos:          </tspan><tspan class="vl">5</tspan></text>
+<text x="326.084" y="242" xml:space="preserve"><tspan class="lb">Stars:          </tspan><tspan class="vl">0</tspan></text>
+<text x="326.084" y="258" xml:space="preserve"><tspan class="lb">Followers:      </tspan><tspan class="vl">0</tspan></text>
+<text x="326.084" y="274" xml:space="preserve"><tspan class="lb">Top.Langs:      </tspan><tspan class="vl">python, typescript</tspan></text>
+<rect x="326.084" y="294" width="24" height="14" fill="#0b1120" stroke="#2a3552"/>
+<rect x="352.084" y="294" width="24" height="14" fill="#e8384f" stroke="#2a3552"/>
+<rect x="378.084" y="294" width="24" height="14" fill="#3ddc84" stroke="#2a3552"/>
+<rect x="404.084" y="294" width="24" height="14" fill="#ffd166" stroke="#2a3552"/>
+<rect x="430.084" y="294" width="24" height="14" fill="#4d8cff" stroke="#2a3552"/>
+<rect x="456.084" y="294" width="24" height="14" fill="#b16cff" stroke="#2a3552"/>
+<rect x="482.084" y="294" width="24" height="14" fill="#39e0d0" stroke="#2a3552"/>
+<rect x="508.084" y="294" width="24" height="14" fill="#e8e8e8" stroke="#2a3552"/>
+<text x="24" y="372" xml:space="preserve"><tspan class="hd">eujz@github</tspan><tspan class="lb">:</tspan><tspan style="fill:#5dc9f2">~</tspan><tspan class="lb">$ </tspan></text>
+<clipPath id="cp0"><rect class="w0" x="141.4" y="359" width="0" height="19"/></clipPath>
+<text x="141.4" y="372" clip-path="url(#cp0)" style="fill:#e8384f">developer</text>
+<g class="c0"><rect class="cur" x="141.4" y="360" width="7.8" height="15" fill="#5dc9f2"/></g>
+<clipPath id="cp1"><rect class="w1" x="141.4" y="359" width="0" height="19"/></clipPath>
+<text x="141.4" y="372" clip-path="url(#cp1)" style="fill:#e8384f">building things, one commit at a time</text>
+<g class="c1"><rect class="cur" x="141.4" y="360" width="7.8" height="15" fill="#5dc9f2"/></g>
+<clipPath id="cp2"><rect class="w2" x="141.4" y="359" width="0" height="19"/></clipPath>
+<text x="141.4" y="372" clip-path="url(#cp2)" style="fill:#e8384f">learning by building and iterating</text>
+<g class="c2"><rect class="cur" x="141.4" y="360" width="7.8" height="15" fill="#5dc9f2"/></g>
+</svg>
