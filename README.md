@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 About me
+## 👋 about me
 
 Hi, I'm evj (`@eujz`). I enjoy exploring programming languages and building projects across the stack.
 
