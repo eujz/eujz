@@ -18,27 +18,24 @@ Hi, I'm evj (`@eujz`). I enjoy exploring programming languages and building proj
 - 🧰 Learning by building and iterating
 - 🖥️ Comfortable exploring frontend, backend, databases, and developer tooling
 
-## 🛠️ Tech stack
+---
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<h2 align="center">Tech Stack & Tools</h2>
 
-## 📊 GitHub at a glance
-
-The terminal card above refreshes repository, star, follower, and language stats automatically with GitHub Actions.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,lua,py,html,css&theme=dark&perline=7" alt="Languages" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,java,mysql,mongodb,git&theme=dark&perline=7" alt="Tech stack" />
+</p>
 
 ---
 
-<p align="center"><sub>Inspired by <a href="https://github.com/pangeran-droid/ascii-profile-card">ascii-profile-card</a> · MIT-licensed template inspiration</sub></p>
+<h2 align="center">Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/eujz"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://t.me/uejjv"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a>
+  <a href="https://www.tiktok.com/@vampiricsboy"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://x.com/vampircboy"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <img src="https://img.shields.io/badge/DISCORD-vampiricsboy-000000?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord: vampiricsboy" />
+</p>
