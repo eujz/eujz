@@ -6,23 +6,23 @@
 <circle cx="40" cy="18.0" r="6" fill="#ffbd2e"/>
 <circle cx="60" cy="18.0" r="6" fill="#27c93f"/>
 <text x="355.0" y="22.0" text-anchor="middle" class="dim">eujz@github: ~</text>
-<text class="art" x="24" y="66" xml:space="preserve"></text>
-<text class="art" x="24" y="82" xml:space="preserve">          +++++++++++++++</text>
-<text class="art" x="24" y="98" xml:space="preserve">       +++++===========+++++</text>
-<text class="art" x="24" y="114" xml:space="preserve">     ++++===-----------===++++</text>
-<text class="art" x="24" y="130" xml:space="preserve">   ++++==--------=--------==++++</text>
-<text class="art" x="24" y="146" xml:space="preserve">  +++==-----=++*****++=-----==+++</text>
-<text class="art" x="24" y="162" xml:space="preserve"> +++==----=+*#%%%%%%%#*+=----==+++</text>
-<text class="art" x="24" y="178" xml:space="preserve"> +++=----=+#%%%#***#%%%#+=----=+++</text>
-<text class="art" x="24" y="194" xml:space="preserve"> ++==----+*#%%*=-:-=*%%#*+----==++</text>
-<text class="art" x="24" y="210" xml:space="preserve"> ++==----+*#%%*=-:-=*%%#*+----==++</text>
-<text class="art" x="24" y="226" xml:space="preserve"> +++=----=+#%%%#***#%%%#+=----=+++</text>
-<text class="art" x="24" y="242" xml:space="preserve"> +++==----=+*#%%%%%%%#*+=----==+++</text>
-<text class="art" x="24" y="258" xml:space="preserve">  +++==-----=++*****++=-----==+++</text>
-<text class="art" x="24" y="274" xml:space="preserve">   ++++==--------=--------==++++</text>
-<text class="art" x="24" y="290" xml:space="preserve">     ++++===-----------===++++</text>
-<text class="art" x="24" y="306" xml:space="preserve">       +++++===========+++++</text>
-<text class="art" x="24" y="322" xml:space="preserve">          +++++++++++++++</text>
+<text class="art" x="24" y="66" xml:space="preserve">@@@@@@@@@@@@@@@%##%@%%%%%@@@@@@%%@</text>
+<text class="art" x="24" y="82" xml:space="preserve">@@@@@@@@@@@@@@#@%:%%#%@%%%%%@@@@@%</text>
+<text class="art" x="24" y="98" xml:space="preserve">@@@@@@@@@@@@@*#%:#@-:+%@@@%#%%@@%*</text>
+<text class="art" x="24" y="114" xml:space="preserve">@@@@@@@@@@@@%***-%+*=+:%%%@%###*##</text>
+<text class="art" x="24" y="130" xml:space="preserve">@@@@@@@@@@@@@#***=+%#%-***@#%@%#%%</text>
+<text class="art" x="24" y="146" xml:space="preserve">@@@@@@@@@@@@@@@#@-*@@@#+-#%#@%%%*%</text>
+<text class="art" x="24" y="162" xml:space="preserve">@@@@@@@@@@@@@@@#%%#%#%@+:#+*##%%#@</text>
+<text class="art" x="24" y="178" xml:space="preserve">@@@@%%%%%%%###%@@@@@%@@@@@#####@@@</text>
+<text class="art" x="24" y="194" xml:space="preserve">@@@@@@@@@@@@@@@@@%%%@@@@@@%##@%@@@</text>
+<text class="art" x="24" y="210" xml:space="preserve">@@@@@@@@@@@@@@%#%##**#@%##**#@@@@@</text>
+<text class="art" x="24" y="226" xml:space="preserve">@@@@%%%%%%%%@@@@@@@@@%**#*#*@%%@@@</text>
+<text class="art" x="24" y="242" xml:space="preserve">%%%@@@@@%@@@@@@@@@*+%%%@@@@%@@+@@@</text>
+<text class="art" x="24" y="258" xml:space="preserve">@@@@@@@#%@@@@@@@@@@%#%*+@@*@@%@@@@</text>
+<text class="art" x="24" y="274" xml:space="preserve">@@@@@@*@@@@@#@@@@+%@%%@@%*%@*%@@@@</text>
+<text class="art" x="24" y="290" xml:space="preserve">@@@@@#+@@@@#%@@@%@@%@+@%+@@+%@@@@@</text>
+<text class="art" x="24" y="306" xml:space="preserve">@@@@@%@@@@*%@@@@+#%%*@@*@@#*@@@@@@</text>
+<text class="art" x="24" y="322" xml:space="preserve">@@@@@@@@@@#@@@@@@@@@#@*@@@#@@@@@@@</text>
 <text class="hd" x="326.084" y="66">eujz@github</text>
 <text class="dim" x="326.084" y="82">───────────</text>
 <text x="326.084" y="114" xml:space="preserve"><tspan class="lb">Role:           </tspan><tspan class="vl">developer</tspan></text>
